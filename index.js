@@ -1,7 +1,7 @@
 
 // Write your code here
 function multiply(num1, num2) {
-  return 31 * 2;
+  return num1 * num2;
 }
 
 function random() {
