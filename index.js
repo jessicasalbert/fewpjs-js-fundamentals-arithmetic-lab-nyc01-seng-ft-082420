@@ -7,3 +7,11 @@ function multiply() {
 function random() {
   return 
 }
+
+function mod() {
+  return 4 % 5;
+}
+
+function max() {
+  return 
+}
