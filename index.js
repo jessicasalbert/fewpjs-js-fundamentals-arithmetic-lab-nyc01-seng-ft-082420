@@ -5,7 +5,7 @@ function multiply() {
 }
 
 function random() {
-  return 
+  return Math.floor(Math.random() * 10) + 1;
 }
 
 function mod() {
