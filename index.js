@@ -13,5 +13,5 @@ function mod() {
 }
 
 function max() {
-  return 
+  return Math.max(1, 2, 20)
 }
